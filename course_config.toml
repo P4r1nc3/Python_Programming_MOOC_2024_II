@@ -1,64 +1,60 @@
 course = 'mooc-programming-22'
-[exercises.part08-01_smallest_average]
-id = 151794
-checksum = '7b173687bf0adebc4a486a68f6c32031'
+[exercises.part09-01_fastest_car]
+id = 151863
+checksum = '5c92c0748d08f4c30991ab9ce461af58'
 
-[exercises.part08-02_row_sums]
-id = 151807
-checksum = 'd9973e48318dc29c3327e7897d41ec80'
+[exercises.part09-02_passing_submissions]
+id = 151862
+checksum = 'fd62c8b5668c6554acbea13cc44efc44'
 
-[exercises.part08-03_list_years]
-id = 151795
-checksum = '34204b1e729dbe3f9e230ece01aff8bb'
+[exercises.part09-03_baby_centre]
+id = 151855
+checksum = '8a1920343eb9a76b20da5a1108c9e6df'
 
-[exercises.part08-04_shopping_list]
-id = 151808
-checksum = 'ae99378be7d856870fd842230850b805'
+[exercises.part09-04_lunchcard_and_paymentterminal]
+id = 151850
+checksum = 'cffc0c94e6e88b59f6e9e39b459fa812'
 
-[exercises.part08-05_book]
-id = 151805
-checksum = 'aac905bf98e296530348a26ce1d62953'
+[exercises.part09-05_comparing_properties]
+id = 151857
+checksum = 'f84df8c676e5754e99578443bc6ec385'
 
-[exercises.part08-06_three_classes]
-id = 151806
-checksum = 'db0a8040524583a0b511483cf1ce31a0'
+[exercises.part09-06_pets]
+id = 151858
+checksum = '5d59bed6b1812f2810cb8cce176f953f'
 
-[exercises.part08-07_pet]
-id = 151796
-checksum = 'b7a475be3b4f573b0e662c62d56c53db'
+[exercises.part09-07_box_of_presents]
+id = 151849
+checksum = '12134adc29f90795f814b7b6148f84b9'
 
-[exercises.part08-08_older_book]
-id = 151802
-checksum = 'ec8edbf83ca00f4ec521f446208bbb97'
+[exercises.part09-08_shortest_in_room]
+id = 151860
+checksum = '79b612f68fabb9ce422ad4233f2c3b6a'
 
-[exercises.part08-09_books_of_genre]
-id = 151797
-checksum = '8a92d4e749d53c617b4e0624f9604e43'
+[exercises.part09-09_car]
+id = 151859
+checksum = '2b97108b7802ff72a4ab794926e817ef'
 
-[exercises.part08-10_decreasing_counter]
-id = 151799
-checksum = 'baa34ecdf760cdde32cc3fbdf5536d12'
+[exercises.part09-10_recording]
+id = 151852
+checksum = 'b0bb4fa38607ad2760e9cfdffed939c7'
 
-[exercises.part08-11_first_and_last_name]
-id = 151800
-checksum = 'b106215b92f30bfe45dab2b229bc4fa7'
+[exercises.part09-11_weather_station]
+id = 151854
+checksum = '4c95dfa9122553c816af249dd6fda33e'
 
-[exercises.part08-12_number_stats]
-id = 151801
-checksum = '7b15d1eb9de2227eea1a319ac5a9b71b'
+[exercises.part09-12_service_charge]
+id = 151856
+checksum = 'f5f0fb9cdd5ba3769ce46030f7b298b7'
 
-[exercises.part08-13_stopwatch]
-id = 151804
-checksum = '2d59af6633c662644f62bddb79d2a0ce'
+[exercises.part09-13_postcodes]
+id = 151861
+checksum = 'a664fc51b4042799d0a122f494da72d4'
 
-[exercises.part08-14_clock]
-id = 151803
-checksum = '9326d9c6edfc221351a6d919b01f4b54'
+[exercises.part09-14_list_helper]
+id = 151853
+checksum = '60cae6fb12085068d1effba1b960f411'
 
-[exercises.part08-15_lunchcard]
-id = 151809
-checksum = 'de1dd39ddb02a80fc5ac43d905a0207f'
-
-[exercises.part08-16_series]
-id = 151798
-checksum = 'cc7e178145f70ef2440ffcf972d5e79e'
+[exercises.part09-15_item_suitcase_hold]
+id = 151851
+checksum = 'bdd6915f15109656401f5537b2184017'
