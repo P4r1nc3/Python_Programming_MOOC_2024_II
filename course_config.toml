@@ -1,60 +1,24 @@
 course = 'mooc-programming-22'
-[exercises.part09-01_fastest_car]
-id = 151863
-checksum = '5c92c0748d08f4c30991ab9ce461af58'
+[exercises.part10-07_money]
+id = 151842
+checksum = '212544ea576eee1770f3086785f65777'
 
-[exercises.part09-02_passing_submissions]
-id = 151862
-checksum = 'fd62c8b5668c6554acbea13cc44efc44'
+[exercises.part10-08_simple_date]
+id = 151840
+checksum = 'a582e1778b169d42b0abe96dfe3cf7a3'
 
-[exercises.part09-03_baby_centre]
-id = 151855
-checksum = '8a1920343eb9a76b20da5a1108c9e6df'
+[exercises.part10-09_iterable_shopping_list]
+id = 151843
+checksum = 'c855e3a427bc472ab5a07c066a19b0ea'
 
-[exercises.part09-04_lunchcard_and_paymentterminal]
-id = 151850
-checksum = 'cffc0c94e6e88b59f6e9e39b459fa812'
+[exercises.part10-10_phone_book_v1]
+id = 151847
+checksum = 'dc5a7c94c16f7c320e5bfb8c1bee6c39'
 
-[exercises.part09-05_comparing_properties]
-id = 151857
-checksum = 'f84df8c676e5754e99578443bc6ec385'
+[exercises.part10-11_phone_book_v2]
+id = 151845
+checksum = '2d92548a10df72760f7c2960b4be8bbb'
 
-[exercises.part09-06_pets]
-id = 151858
-checksum = '5d59bed6b1812f2810cb8cce176f953f'
-
-[exercises.part09-07_box_of_presents]
-id = 151849
-checksum = '12134adc29f90795f814b7b6148f84b9'
-
-[exercises.part09-08_shortest_in_room]
-id = 151860
-checksum = '79b612f68fabb9ce422ad4233f2c3b6a'
-
-[exercises.part09-09_car]
-id = 151859
-checksum = '2b97108b7802ff72a4ab794926e817ef'
-
-[exercises.part09-10_recording]
-id = 151852
-checksum = 'b0bb4fa38607ad2760e9cfdffed939c7'
-
-[exercises.part09-11_weather_station]
-id = 151854
-checksum = '4c95dfa9122553c816af249dd6fda33e'
-
-[exercises.part09-12_service_charge]
-id = 151856
-checksum = 'f5f0fb9cdd5ba3769ce46030f7b298b7'
-
-[exercises.part09-13_postcodes]
-id = 151861
-checksum = 'a664fc51b4042799d0a122f494da72d4'
-
-[exercises.part09-14_list_helper]
-id = 151853
-checksum = '60cae6fb12085068d1effba1b960f411'
-
-[exercises.part09-15_item_suitcase_hold]
-id = 151851
-checksum = 'bdd6915f15109656401f5537b2184017'
+[exercises.part10-12_course_records]
+id = 151837
+checksum = '91b224b1823a1142dc1d57cbde900236'
