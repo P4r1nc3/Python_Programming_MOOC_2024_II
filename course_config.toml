@@ -1,4 +1,60 @@
 course = 'mooc-programming-22'
+[exercises.part12-01_remaining_stock]
+id = 151914
+checksum = '9af0113977aed944987d99f53f5ce7e7'
+
+[exercises.part12-02_seasons]
+id = 151919
+checksum = '7930c36198382db36cfdcb631bae4772'
+
+[exercises.part12-03_ratings]
+id = 151917
+checksum = '822e1952edb4c40ced4ca77d9f47942f'
+
+[exercises.part12-04_climbing_route]
+id = 151916
+checksum = 'f21c3b63d5a7715c4e9d9d5ad8f24c28'
+
+[exercises.part12-05_climbing_areas]
+id = 151925
+checksum = '44b2d24ab6b7543f226b0370f7bb8ab8'
+
+[exercises.part12-06_ballplayers]
+id = 151921
+checksum = '66751d7b1f1206f49e0f8cf920dda0f3'
+
+[exercises.part12-07_product_search]
+id = 151922
+checksum = '1d6d4b762f4b8ac0bd1f3ace1c3d14e5'
+
 [exercises.part12-08_even_numbers]
 id = 151926
 checksum = 'ae5f6362b96ba0f63084e1a62b34f8a5'
+
+[exercises.part12-09_prime_numbers]
+id = 151913
+checksum = '769469c5b63d1deaaa91bee40d93f124'
+
+[exercises.part12-10_random_words]
+id = 151918
+checksum = 'cff793b5259980ee2f7336ec2c665e4c'
+
+[exercises.part12-11_attempted_courses]
+id = 151927
+checksum = 'c1ffd0cb62017b5a8bace22c04fc0083'
+
+[exercises.part12-12_filtering_attempts]
+id = 151923
+checksum = '7504ec416ad0ca1bb0ff531316def229'
+
+[exercises.part12-13_credits]
+id = 151920
+checksum = '2c73405c7e8fa8681666fe563fd7aa7d'
+
+[exercises.part12-14_regular_expressions]
+id = 151924
+checksum = 'c7f99f4ba9fa49ff31bae25a66c9fd69'
+
+[exercises.part12-15_hockey_statistics]
+id = 151915
+checksum = 'ff22c9f8b612be3ec9bd6f6527f24698'
