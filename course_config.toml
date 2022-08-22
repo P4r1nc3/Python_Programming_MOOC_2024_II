@@ -1,60 +1,68 @@
 course = 'mooc-programming-22'
-[exercises.part12-01_remaining_stock]
-id = 151914
-checksum = '9af0113977aed944987d99f53f5ce7e7'
+[exercises.part13-01_four_robots]
+id = 151902
+checksum = '3a0cc17c8e7ea5975ac1b824304d4e40'
 
-[exercises.part12-02_seasons]
-id = 151919
-checksum = '7930c36198382db36cfdcb631bae4772'
+[exercises.part13-02_robots_row]
+id = 151898
+checksum = '2ee62a778cc8565f47f26fddb99b0c9c'
 
-[exercises.part12-03_ratings]
-id = 151917
-checksum = '822e1952edb4c40ced4ca77d9f47942f'
+[exercises.part13-03_hundred_robots]
+id = 151912
+checksum = '9b537973484590cb60ea704f027a1c38'
 
-[exercises.part12-04_climbing_route]
-id = 151916
-checksum = 'f21c3b63d5a7715c4e9d9d5ad8f24c28'
+[exercises.part13-04_random_robots]
+id = 151907
+checksum = '6db32110aeaec5d0ac599378a846db33'
 
-[exercises.part12-05_climbing_areas]
-id = 151925
-checksum = '44b2d24ab6b7543f226b0370f7bb8ab8'
+[exercises.part13-05_vertical_movement]
+id = 151906
+checksum = 'ee2c3053de44543d7c7c74b071f0cba1'
 
-[exercises.part12-06_ballplayers]
-id = 151921
-checksum = '66751d7b1f1206f49e0f8cf920dda0f3'
+[exercises.part13-06_round_the_perimeter]
+id = 151909
+checksum = 'cef1bf3afa5864ee840b239ecd176b88'
 
-[exercises.part12-07_product_search]
-id = 151922
-checksum = '1d6d4b762f4b8ac0bd1f3ace1c3d14e5'
+[exercises.part13-07_two_robots]
+id = 151903
+checksum = '0e31854d048e3c324c698727f477a45f'
 
-[exercises.part12-08_even_numbers]
-id = 151926
-checksum = 'ae5f6362b96ba0f63084e1a62b34f8a5'
+[exercises.part13-08_robot_circle]
+id = 151911
+checksum = '77a0196595874afed669c5be8bef86b5'
 
-[exercises.part12-09_prime_numbers]
-id = 151913
-checksum = '769469c5b63d1deaaa91bee40d93f124'
+[exercises.part13-09_bouncing_ball]
+id = 151910
+checksum = '29938a66ff839e1d4d0a680e0104beb7'
 
-[exercises.part12-10_random_words]
-id = 151918
-checksum = 'cff793b5259980ee2f7336ec2c665e4c'
+[exercises.part13-10_robot_invasion]
+id = 151900
+checksum = '7efc5150214ed3bd18d854aebf6d8574'
 
-[exercises.part12-11_attempted_courses]
-id = 151927
-checksum = 'c1ffd0cb62017b5a8bace22c04fc0083'
+[exercises.part13-11_four_directions]
+id = 151905
+checksum = '235f1f8b4b6238373c3d12a0717b3697'
 
-[exercises.part12-12_filtering_attempts]
-id = 151923
-checksum = '7504ec416ad0ca1bb0ff531316def229'
+[exercises.part13-12_four_walls]
+id = 151908
+checksum = '02282e6be53bb01d3702925fff89fac3'
 
-[exercises.part12-13_credits]
-id = 151920
-checksum = '2c73405c7e8fa8681666fe563fd7aa7d'
+[exercises.part13-13_two_players]
+id = 151897
+checksum = 'b5281bf3d0b337de3b42bea437228305'
 
-[exercises.part12-14_regular_expressions]
-id = 151924
-checksum = 'c7f99f4ba9fa49ff31bae25a66c9fd69'
+[exercises.part13-14_robot_and_mouse]
+id = 151899
+checksum = 'c48fc340430d3035b8b08ae8c2f4dee7'
 
-[exercises.part12-15_hockey_statistics]
-id = 151915
-checksum = 'ff22c9f8b612be3ec9bd6f6527f24698'
+[exercises.part13-15_robot_location]
+id = 151896
+checksum = '7e528eff80217e734c89eff7871ea3d1'
+
+[exercises.part13-16_clock]
+id = 151901
+checksum = '66173cb6a00b77872dab0f749557510c'
+
+[exercises.part13-17_asteroids]
+id = 151904
+checksum = '0591dcc6b479ddb33bdcb53729753f5c'

@@ -1,0 +1,128 @@
+[
+    {
+      "name": "Travis Zajac",
+      "nationality": "CAN",
+      "assists": 16,
+      "goals": 9,
+      "penalties": 28,
+      "team": "NJD",
+      "games": 69
+    },
+    {
+      "name": "Andy Greene",
+      "nationality": "USA",
+      "assists": 12,
+      "goals": 2,
+      "penalties": 16,
+      "team": "NYI",
+      "games": 63
+    },
+    {
+      "name": "Conor Sheary",
+      "nationality": "USA",
+      "assists": 13,
+      "goals": 10,
+      "penalties": 10,
+      "team": "BUF",
+      "games": 63
+    },
+    {
+      "name": "Jared McCann",
+      "nationality": "CAN",
+      "assists": 21,
+      "goals": 14,
+      "penalties": 17,
+      "team": "PIT",
+      "games": 66
+    },
+    {
+      "name": "Drake Batherson",
+      "nationality": "USA",
+      "assists": 7,
+      "goals": 3,
+      "penalties": 13,
+      "team": "OTT",
+      "games": 23
+    },
+    {
+      "name": "Jonathan Davidsson",
+      "nationality": "SWE",
+      "assists": 1,
+      "goals": 0,
+      "penalties": 0,
+      "team": "OTT",
+      "games": 6
+    },
+    {
+      "name": "Jonas Siegenthaler",
+      "nationality": "CHE",
+      "assists": 7,
+      "goals": 2,
+      "penalties": 43,
+      "team": "WSH",
+      "games": 64
+    },
+    {
+      "name": "Jakub Vrana",
+      "nationality": "CZE",
+      "assists": 27,
+      "goals": 25,
+      "penalties": 18,
+      "team": "WSH",
+      "games": 69
+    },
+    {
+      "name": "Mark Jankowski",
+      "nationality": "CAN",
+      "assists": 2,
+      "goals": 5,
+      "penalties": 14,
+      "team": "CGY",
+      "games": 56
+    },
+    {
+      "name": "Buddy Robinson",
+      "nationality": "USA",
+      "assists": 0,
+      "goals": 1,
+      "penalties": 7,
+      "team": "CGY",
+      "games": 5
+    },
+    {
+      "name": "John Klingberg",
+      "nationality": "SWE",
+      "assists": 26,
+      "goals": 6,
+      "penalties": 22,
+      "team": "DAL",
+      "games": 58
+    },
+    {
+      "name": "Taylor Fedun",
+      "nationality": "CAN",
+      "assists": 7,
+      "goals": 2,
+      "penalties": 8,
+      "team": "DAL",
+      "games": 27
+    },
+    {
+      "name": "Adam Lowry",
+      "nationality": "USA",
+      "assists": 6,
+      "goals": 4,
+      "penalties": 23,
+      "team": "WPG",
+      "games": 49
+    },
+    {
+      "name": "Logan Shaw",
+      "nationality": "CAN",
+      "assists": 2,
+      "goals": 3,
+      "penalties": 0,
+      "team": "WPG",
+      "games": 35
+    }
+  ]
