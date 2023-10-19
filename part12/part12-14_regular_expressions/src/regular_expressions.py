@@ -9,7 +9,7 @@ def is_dotw(my_string: str):
 
 def all_vowels(my_string: str):
     for a in my_string:
-        if re.search("[aeiouyAEIOUY]", a):
+        if re.search("[aeiouAEIOU]", a):
             continue
         else:
             return False
